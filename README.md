@@ -1,0 +1,1 @@
+This project integrates real-time autonomous vehicles for safer, efficient, and sustainable urban transportation. Using advanced sensors, these vehicles navigate dynamically to minimize accidents and congestion.
